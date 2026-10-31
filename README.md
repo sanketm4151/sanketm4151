@@ -256,17 +256,16 @@ My approach to solving data problems:
 
 <div align="center">
 
-<img width="85%" src="https://streak-stats.demolab.com?user=sanketm4151&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketm4151&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
+------
 ## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketm4151&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketm4151&bg_color=1a1b27&color=70a5fd&line=00c9a7&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
