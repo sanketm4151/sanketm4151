@@ -270,6 +270,7 @@ My approach to solving data problems:
 </div>
 
 ---
+<img src="https://streak-stats.demolab.com?user=sanketm4151&theme=dark"/>
 
 ## 🏆 GITHUB TROPHIES
 
