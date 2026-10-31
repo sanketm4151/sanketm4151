@@ -244,27 +244,25 @@ My approach to solving data problems:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanketm4151&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=sanketm4151&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketm4151&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanketm4151&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 
 ---
 <img src="https://streak-stats.demolab.com?user=sanketm4151&theme=dark"/>
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=sanketm4151&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<a href="https://github.com/sanketm4151">
+  <img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20ACHIEVEMENTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
----
 
 <!-- ====================================================== -->
 
