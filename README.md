@@ -1,43 +1,59 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ====================================================== -->
+
+<!--                    ANIMATED HEADER                     -->
+
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9A7&height=220&section=header&text=SANKET%20MANE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20DEVELOPER&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9A7&height=210&section=header&text=SANKET%20MANE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20SQL%20%7C%20PYTHON%20%7C%20POWER%20BI&descAlignY=60&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions;Turning+Data+into+Meaningful+Insights"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Insights;Building+Data-Driven+Solutions"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=sanketm4151&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/sanketm4151?style=for-the-badge&color=243B55&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ====================================================== -->
+
+<!--                       ABOUT ME                         -->
+
+<!-- ====================================================== -->
 
 ## 👨‍💻 ABOUT ME
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analytics, Python Development, and Technology.
+Hello! 👋 I'm **Sanket Santosh Mane**, a BCA graduate passionate about Data Analytics, Business Intelligence, and Technology.
 
-* 🎓 BCA Graduate
+I enjoy working with data, discovering meaningful patterns, and transforming complex datasets into actionable business insights.
+
+* 🎓 BCA Graduate – 2025
 * 📊 Aspiring Data Analyst
-* 🐍 Python Developer
-* 💾 SQL & Database Enthusiast
-* 📈 Power BI & Data Visualization
-* ☁️ Exploring AWS & Azure Cloud Technologies
-* 🚀 Building real-world data projects
-* 🎯 Open to IT Fresher & Internship Opportunities
+* 🐍 Python & SQL Enthusiast
+* 📈 Power BI Dashboard Developer
+* 📑 Excel & Data Visualization
+* 💾 Database Management & Query Optimization
+* 🔍 Exploratory Data Analysis (EDA)
+* 🚀 Passionate about real-world data projects
 
-**My Goal:** Transform raw data into meaningful insights and build solutions that help businesses make better decisions.
+**My Goal:** To build a career in Data Analytics by using SQL, Python, Excel, and Power BI to solve business problems and support data-driven decision-making.
 
 <br clear="right"/>
 
 ---
 
-<!-- ===================== TECHNICAL SKILLS ===================== -->
+<!-- ====================================================== -->
+
+<!--                    TECHNICAL SKILLS                    -->
+
+<!-- ====================================================== -->
 
 ## 🛠️ TECH STACK & TECHNOLOGIES
 
@@ -45,7 +61,7 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,php,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark"/>
 
 </div>
 
@@ -59,91 +75,156 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
-### ☁️ Cloud & Development Tools
+### 🔧 Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,docker,jupyter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
 
 </div>
 
-### 🧠 Core Technical Skills
+### 🧠 Technical Competencies
 
-* SQL: Joins, CTEs, Subqueries, Window Functions
-* Python: Pandas, NumPy, Data Cleaning, EDA
-* Power BI: DAX, Power Query, KPI Dashboards
-* Excel: Pivot Tables, VLOOKUP, XLOOKUP
-* Database: MySQL, PostgreSQL, SQL Server
-* Cloud: AWS & Azure Fundamentals
+| Category              | Skills                                                  |
+| --------------------- | ------------------------------------------------------- |
+| Programming           | Python, SQL                                             |
+| Python Libraries      | Pandas, NumPy, Matplotlib                               |
+| SQL                   | Joins, CTEs, Subqueries, Aggregations, Window Functions |
+| Advanced SQL          | CASE Statements, Stored Procedures, Query Optimization  |
+| Power BI              | DAX, Power Query, KPI Dashboards                        |
+| Excel                 | Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH             |
+| Databases             | SQL Server, MySQL, SSMS                                 |
+| Analytics             | EDA, Data Cleaning, Data Wrangling, Data Validation     |
+| Business Intelligence | KPI Analysis, Trend Analysis, Outlier Analysis          |
+| Tools                 | Jupyter Notebook, VS Code, Git, GitHub                  |
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ====================================================== -->
 
-## 🚀 FEATURED PROJECTS
+<!--                  ANALYTICS WORKFLOW                    -->
 
-<table>
-<tr>
-<td width="50%">
+<!-- ====================================================== -->
 
-### 📊 SalesPulse – Sales Analytics
-
-**Tech Stack:** SQL, Python, Excel, Power BI
-
-* Sales performance analysis.
-* Revenue and profit tracking.
-* Customer KPI dashboard.
-* Interactive Power BI visualizations.
-
-</td>
-<td width="50%">
-
-### 📈 Meta Ads Campaign Analysis
-
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib
-
-* Analysis of 10,000+ advertising records.
-* Data cleaning and preprocessing.
-* Campaign performance analysis.
-* Audience and engagement insights.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏢 Function Hall Management
-
-**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
-
-* Hall booking management.
-* Admin authentication.
-* Booking and customer management.
-* Database-driven application.
-
-</td>
-<td width="50%">
-
-### 📉 Retail Sales Performance
-
-**Tech Stack:** SQL, Python, Power BI
-
-* Retail transaction analysis.
-* Sales and performance tracking.
-* Business KPI reporting.
-* Data-driven insights.
-
-</td>
-</tr>
-</table>
+## ⚙️ MY DATA ANALYTICS WORKFLOW
 
 <div align="center">
 
-### 🔗 Explore My Projects
+<img src="https://img.shields.io/badge/01-Data%20Collection-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-Data%20Cleaning-243B55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-Data%20Analysis-00A896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-Visualization-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-Business%20Insights-141E30?style=for-the-badge"/>
+
+</div>
+
+My approach to solving data problems:
+
+1. **Data Collection:** Gather and understand raw datasets.
+2. **Data Cleaning:** Handle missing values, duplicates, and inconsistencies.
+3. **Data Transformation:** Prepare structured datasets using Python, SQL, and Excel.
+4. **Exploratory Data Analysis:** Identify patterns, trends, and relationships.
+5. **Data Visualization:** Develop interactive dashboards using Power BI.
+6. **Business Insights:** Convert analytical findings into actionable insights.
+
+---
+
+<!-- ====================================================== -->
+
+<!--                   FEATURED PROJECTS                    -->
+
+<!-- ====================================================== -->
+
+## 🚀 FEATURED PROJECTS
+
+### 📊 1. SalesPulse – Sales Performance & Business Intelligence Dashboard
+
+**Tech Stack:** SQL | Python | Pandas | Excel | Power BI | DAX
+
+* Analyzed 5,000+ sales records to understand business performance.
+* Used SQL Joins, CTEs, Subqueries, and Window Functions.
+* Performed data cleaning and transformation.
+* Developed interactive Power BI dashboards.
+* Created KPIs for Revenue Growth, Profit Margin, and Average Order Value.
+
+---
+
+### 📢 2. Meta Ads Performance Analytics
+
+**Tech Stack:** Python | Pandas | NumPy | Matplotlib | Seaborn | Excel
+
+<a href="https://github.com/sanketm4151/meta-ads-performance-analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+* Analyzed 10,000+ advertising records.
+* Performed data cleaning and preprocessing.
+* Explored campaign and advertising performance.
+* Analyzed audience targeting attributes.
+* Generated insights through Exploratory Data Analysis.
+
+---
+
+### 💳 3. Credit Card Financial Dashboard
+
+**Tech Stack:** Power BI | SQL | DAX | Data Visualization
+
+<a href="https://github.com/sanketm4151/CREDIT_CARD_REPORT">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+* Developed an interactive financial dashboard.
+* Analyzed credit card transactions and customer data.
+* Created financial KPIs and performance metrics.
+* Visualized revenue and spending trends.
+* Presented financial insights through interactive reports.
+
+---
+
+### 🚕 4. Uber Booking Analysis Dashboard
+
+**Tech Stack:** Power BI | DAX | Data Modeling | Data Visualization
+
+<a href="https://github.com/sanketm4151/UBER_REPORT">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+* Analyzed Uber booking and trip data.
+* Developed an interactive Power BI dashboard.
+* Created KPIs to monitor booking performance.
+* Explored trip patterns and booking trends.
+* Presented analytical findings through visualizations.
+
+---
+
+### 🏢 5. Function Hall Management System
+
+**Tech Stack:** PHP | MySQL | HTML | CSS | JavaScript | Bootstrap
+
+* Developed a database-driven hall booking management system.
+* Implemented admin authentication.
+* Managed customer and booking information.
+* Created CRUD operations and reporting functionality.
+
+---
+
+### 📦 6. Vendor Performance Analytics & Reporting
+
+**Tech Stack:** SQL | Python | Pandas | Power BI
+
+* Analyzed vendor-level transaction data.
+* Evaluated sales, revenue, and profitability.
+* Performed data preparation and exploratory analysis.
+* Developed interactive Power BI reports.
+* Identified high-performing and low-performing vendors.
+
+---
+
+<div align="center">
 
 <a href="https://github.com/sanketm4151?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
@@ -153,7 +234,11 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- ====================================================== -->
+
+<!--                  GITHUB STATISTICS                     -->
+
+<!-- ====================================================== -->
 
 ## 📊 GITHUB STATISTICS
 
@@ -171,7 +256,7 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 
 <div align="center">
 
-<img width="85%" src="https://streak-stats.demolab.com?user=sanketm4151&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=sanketm4151&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -197,7 +282,11 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ====================================================== -->
+
+<!--                    CONNECT WITH ME                     -->
+
+<!-- ====================================================== -->
 
 ## 🌐 CONNECT WITH ME
 
@@ -219,13 +308,13 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 
 📍 Pune, Maharashtra, India
 
-💼 Open to Data Analyst | Python Developer | SQL Developer Opportunities
+### 💼 AREAS OF INTEREST
+
+Data Analyst | Junior Data Analyst | SQL Developer | Power BI Developer | Python Developer
 
 </div>
 
 ---
-
-<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
@@ -233,8 +322,6 @@ Hi there! 👋 I'm **Sanket Mane**, a BCA graduate passionate about Data Analyti
 
 **"Turning Raw Data into Meaningful Insights."**
 
-⭐ If you find my projects interesting, consider giving them a star!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:203A43,100:0F2027&height=120&section=footer"/>
+⭐ Explore my repositories and feel free to connect!
 
 </div>
